@@ -1,0 +1,32 @@
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\bin\Debug\ProjectBDb.exe.config
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\bin\Debug\ProjectBDb.exe
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\bin\Debug\ProjectBDb.pdb
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.Form1.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.Properties.Resources.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.csproj.GenerateResource.Cache
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.exe
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.pdb
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.AssessmentUserControl.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.AttendanceUserControl.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.CloUserControl.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.RubricUserControl.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.StudentUserControl.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.StudentResultUserControl.resources
+c:\users\muhammad awais\documents\visual studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.HomeUserControl.resources
+C:\Users\Muhammad Awais\Documents\Visual Studio 2015\Projects\ProjectBDb\ProjectBDb\obj\Debug\ProjectBDb.csprojResolveAssemblyReference.cache
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\bin\Debug\ProjectBDb.exe.config
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.exe
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.pdb
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\bin\Debug\ProjectBDb.exe
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\bin\Debug\ProjectBDb.pdb
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.csprojResolveAssemblyReference.cache
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.AssessmentUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.AttendanceUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.CloUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.Form1.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.HomeUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.Properties.Resources.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.RubricUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.StudentResultUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.StudentUserControl.resources
+D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.csproj.GenerateResource.Cache
