@@ -30,3 +30,6 @@ D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\
 D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.StudentResultUserControl.resources
 D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.StudentUserControl.resources
 D:\UET-BS-CS\6th Sem\DBMS\MiniProject\DBMS-Lab-MiniProject\ProjectBDb\obj\Debug\ProjectBDb.csproj.GenerateResource.Cache
+D:\UET-BS-CS\6th Sem\DBMS LAB\MiniProject-GitHub\MiniProject_DBMS-Pr-\MiniProject\ProjectBDb\bin\Debug\ProjectBDb.exe.config
+D:\UET-BS-CS\6th Sem\DBMS LAB\MiniProject-GitHub\MiniProject_DBMS-Pr-\MiniProject\ProjectBDb\obj\Debug\ProjectBDb.exe
+D:\UET-BS-CS\6th Sem\DBMS LAB\MiniProject-GitHub\MiniProject_DBMS-Pr-\MiniProject\ProjectBDb\obj\Debug\ProjectBDb.pdb
